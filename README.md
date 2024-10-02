@@ -11,14 +11,14 @@ This project involves analyzing sales data for an electronics store. The goal is
    - City with the highest revenue
    - Best time to advertise for maximum sales
    - Product and quantity relationship
-4. **Visualizations**: Created visual representations using libraries such as Matplotlib and Seaborn.
+4. **Visualizations**: Created visual representations using libraries such as Matplotlib.
 
 ## Technologies Used
 
 - **Python**: Data processing and analysis
 - **Pandas**: Data manipulation and cleaning
-- **Matplotlib & Seaborn**: Data visualization
-- **Jupyter Notebook**: Interactive development environment
+- **Matplotlib**: Data visualization
+- **Google Colab**: Interactive development environment
 
 ## How to Use
 
