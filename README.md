@@ -24,7 +24,7 @@ This project involves analyzing sales data for an electronics store. The goal is
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/electronics-sales-analysis.git
+ - git clone https://github.com/your-username/electronics-sales-analysis.git
 
 ## Data Sourcs
 
